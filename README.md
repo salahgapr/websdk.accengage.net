@@ -1,2 +1,2 @@
-# md-handbook.acorns.com
-Subdomain Takeover
+# Subdomain Takeover
+
